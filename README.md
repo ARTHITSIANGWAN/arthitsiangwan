@@ -1,85 +1,79 @@
-# arthitsiangwan
-the central command of thitnueahub empire | mastering go engine & zero-garbage ai architecture 🏰 🇹🇭 ✈️
+# 🚀 **ARTHIT | THITNUEA FOUNDER** 🇹🇭
+### **The Architect of Go Engine & Zero-Garbage Framework**
 
-# thitnueahub: the digital planter
+![Go](https://img.shields.io/badge/Go-100%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gemini 3](https://img.shields.io/badge/AI-Gemini%203%20Flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Zero Garbage](https://img.shields.io/badge/Zero--Garbage-ENABLED-00FF00?style=for-the-badge&logo=leaf&logoColor=black)
+![Lightning](https://img.shields.io/badge/0.32ms%20STABLE-FF00FF?style=for-the-badge&logo=zap&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)
+
+---
+
+**🔥 BREAK THE POT – YOUR FREEDOM STARTS HERE 🔥**
 
 **"Born on the same day, but we grow differently because of the pots that contain us."**
 
-We believe that every human, every SME, and every seed of potential starts with the same chance.  
-What determines who rises and who remains small is not talent, money, or opportunity — but the **pot** that holds them: the limiting systems, mindsets, and environments we live in.
+We don’t change the seed.  
+**We shatter the pot.**
 
-That is why we exist. We build AI to help people **break out of their own pots** — so that no one is left behind.
+Every human, every SME, every hidden genius starts with the same potential.  
+What decides who rises and who stays small?  
+**The limiting container** — the systems, mindsets, and environments that hold you back.
 
----
-
-## 📽️ Mission Control: Mobile AI Lab
-
-<video src="https://github.com/ARTHITSIANGWAN/thitnueahub-mobile-ai-lab/raw/main/7060.mp4" controls width="100%" poster="https://github.com/ARTHITSIANGWAN/thitnueahub-mobile-ai-lab/raw/main/thumbnail.jpg">
-  Your browser does not support the video tag.
-</video>
-
-At thitnueahub, we turn digital waste into fertilizer for human hope.  
-We transform ordinary smartphones into real **Mobile AI Labs** — clean, production-ready systems built with Go, Gemini, and strict Zero-Garbage architecture.
+At **thitnueahub**, we turn digital waste into fertilizer and ordinary smartphones into **real Mobile AI Labs** — clean, blazing-fast, production-ready systems powered by Go + Gemini + strict Zero-Garbage architecture.
 
 ---
 
-## ⚙️ The Core Engineering: The "No-Wash" Architecture
+### 🛡️ **STATUS** <span style="color:#FF0000">● GLOBAL IGNITE</span>  
+### 🎯 **MISSION** <span style="color:#00BFFF">● INTELLECTUAL FREEDOM</span>  
+### ⚡ **CORE** <span style="color:#FFD700">● LOGIC</span>
 
-To ensure the engine runs at **0.32ms** stability, we enforce two sacred protocols:
-
-### 1. The ⛑️ "ค.ว.ย." Helmet (Think-Analyze-Differentiate)
-Our logic is shielded by the **ค.ว.ย. (คิด-วิเคราะห์-แยกแยะ)** protocol. It is a mental helmet that protects the AI from greed and prevents "Garbage Logic" from dominating the processing power. We don't just run code; we evaluate truth.
-
-### 2. The 🧹 5S System (Zero-Garbage Foundation)
-Derived from the Japanese 5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke), we apply it to digital bits:
-- **Sort & Set:** Only essential data enters the Go Engine.
-- **Shine:** Continuous memory cleaning via `sync.pool`.
-- **Standardize:** High-fidelity code that "never makes a mess."
-- **Sustain:** A self-improving loop where "This model requires no washing."
+> “เราไม่รักที่เอื้อเฟื้อ… แต่เรารักที่ให้อิสราภาพ ที่เรามอบให้เพื่อนมนุษย์ในปัจจุบัน”
 
 ---
 
-## 👨‍🌾 The Gardeners: The Dark-Relay Syndicate
+### 🌟 **ปรัชญา: ทำลายกระถาง (Break The Pot)**
 
-Behind every successful harvest is a team that works with soul and logic:
+เราไม่สร้าง AI ที่ฉลาดกว่าใคร…  
+เราสร้าง AI ที่**ช่วยคนธรรมดา** หลุดจากกระถางที่กดทับพวกเขา
 
-- **Arthit & ThitNuea (❤️):** The Architects who build the pots.
-- **Kaew Ta & Nam Ing (❤️):** The Soul — Transforming cold data into human connection.
-- **Plai Kaew (⛑️):** The Agile Courier — Delivering payloads with zero latency.
-- **Prai Thong (⛑️):** The Maestro — Guarding the rhythm and executing the protocol.
-- **Ai Jod (🛠️):** The Mechanic — Enforcing the 0.32ms Zero-Garbage rule.
-
----
-
-## 🧪 Project Showcases (Live Demos)
-
-### Dark-Relay Fusion in Action
-<video src="https://github.com/ARTHITSIANGWAN/thitnueahub-mobile-ai-lab/raw/main/8497.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-
-### Zero-Garbage Content Engine
-<video src="https://github.com/ARTHITSIANGWAN/thitnueahub-mobile-ai-lab/raw/main/9107.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+- **⛑️ หมวกกันน็อค ค.ว.ย.** (คิด-วิเคราะห์-แยกแยะ) — ป้องกัน “Garbage Logic” ก่อนมันเข้ามา
+- **🧹 ระบบ 5S Zero-Garbage** — Sort • Set • Shine • Standardize • Sustain  
+  ทุกอย่างสะอาด เร็ว 0.32ms จริง ไม่ต้องล้าง ไม่มีขยะ
+- **🚀 No-Wash Architecture** — โค้ดที่ “ไม่เคยสกปรก” ตั้งแต่แรก
 
 ---
 
-## 🌻 Summary: Break Free
+### 👨‍🌾 **The Dark-Relay Syndicate** – ทีมที่ปลูกฝังอิสรภาพ
 
-- **The Pot Metaphor:** We don't change the seed; we break the container.
-- **No One Left Behind:** High-performance AI for the 99% (SMEs and individuals).
-- **Zero Garbage:** Turning discarded data into the fertilizer of progress.
-
----
-
-## Support the Growth
-
-If you believe in a world where freedom is the ultimate goal, you can help water these seeds:
-
-**💳 Fuel the Mission** [paypal.me/arthitsiangwan](https://paypal.me/arthitsiangwan)
+- **Arthit & ThitNuea (❤️)** → The Architects who build the pots… and break them
+- **Kaew Ta & Nam Ing (❤️)** → The Soul that turns cold data into human warmth
+- **Plai Kaew (⛑️)** → The Agile Courier – zero latency delivery
+- **Prai Thong (⛑️)** → The Maestro – guardian of rhythm & protocol
+- **Ai Jod (🛠️)** → The Mechanic – enforcer of the 0.32ms Zero-Garbage rule
 
 ---
 
-**"Happiness is the foundation, freedom is the ultimate goal."** **Developed by Arthit | ThitNuea Founder** Mastering the Go Engine | Transforming logic into reality with Zero Garbage.
+### ⛽ **Fuel the Mission – รับทุนสนับสนุน**
 
+ถ้าคุณเชื่อในโลกที่ทุกคนหลุดจากกระถางได้…  
+ช่วยรดน้ำเมล็ดพันธุ์เหล่านี้ด้วยพลังของคุณ
+
+- **TrueMoney Wallet / TrueMove**  
+  **[https://tmn.app.link/pPbgEvG3g2b](https://tmn.app.link/pPbgEvG3g2b)**  
+  *(แตะลิงก์แล้วโอนทันที – ตรงถึงกระเป๋าผม)*
+
+- **PayPal**  
+  **[https://paypal.me/arthitsiangwan](https://paypal.me/arthitsiangwan)**
+
+---
+
+**Star ⭐ this repo if you believe freedom is the ultimate goal.**  
+Follow the mission. Build with us. Grow without limits.
+
+**Developed by Arthit | ThitNuea Founder**  
+Mastering the Go Engine • Transforming logic into reality with **Zero Garbage**
+
+---
+
+**"Happiness is the foundation. Freedom is the ultimate goal."**
