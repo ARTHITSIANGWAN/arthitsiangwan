@@ -1,4 +1,4 @@
-# 🚀 **ARTHIT | THITNUEA FOUNDER** 🇹🇭
+# 🚀 **arthitsiangwan arthit | thitnuea founder** 🇹🇭
 ### **The Architect of Go Engine & Zero-Garbage Framework**
 
 ![Go](https://img.shields.io/badge/Go-100%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
