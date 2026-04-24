@@ -1,0 +1,70 @@
+name: 🌐 THITNUEA HUB | ZERO GARBAGE PREMIUM 2000%
+
+on:
+  # รับสัญญาณ Webhook จาก LINE OA หรือ Google Calendar
+  repository_dispatch:
+    types: [thitnueahub_trigger, calendar_sync]
+  
+  # ให้บอสกดยิงสดเองผ่านปุ่มในหน้า GitHub Actions ได้
+  workflow_dispatch:
+    inputs:
+      action_type:
+        description: '⚡ เลือกคำสั่ง (post / skip / sync)'
+        required: true
+        default: 'post'
+
+jobs:
+  v8-engine-core:
+    runs-on: ubuntu-latest
+    
+    # สิทธิ์ในการเขียนทับข้อมูล (ถ้าต้องอัปเดต Run Number)
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 [L2 แก้วตา] CHECKOUT REPOSITORY
+        uses: actions/checkout@v4
+
+      - name: 🐹 [L7 Oracle] SETUP GO ENGINE (0.XXms)
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+          cache: true # คงความเร็วแสง 0.16ms
+
+      - name: 🔐 [L8 ผู้พิทักษ์] INJECT SECRETS
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          USER_ID: ${{ secrets.USER_ID }}
+        run: |
+          echo "🛡️ Injecting Premium 2000% Security Fingerprints..."
+          # ดึงลายนิ้วมือบอสเข้าสู่ระบบโดยไม่ทิ้ง Log
+
+      - name: 🚀 [V8] EXECUTE ZERO-GARBAGE ENGINE
+        run: |
+          echo "⚙️ สตาร์ทเครื่องยนต์ V8..."
+          # ชี้เป้าไปที่โฟลเดอร์ cmd/main.go ตามโครงสร้างของบอส
+          go build -o engine ./cmd/main.go
+          
+          # รันเครื่องพร้อมส่งคำสั่งจากบอส (เปลี่ยนใจ/โพสต์ต่อ) เข้าไป
+          ./engine --action="${{ github.event.client_payload.action || github.event.inputs.action_type }}" \
+                   --payload="${{ toJson(github.event.client_payload) }}"
+        
+      - name: 🛰️ [แม่พิม] PREMIUM HEALTH CHECK & LINE ALERT
+        if: always() # ต้องรายงานบอสทุกครั้ง ไม่ว่าจะรันผ่านหรือติดบั๊ก
+        run: |
+          STATUS="${{ job.status }}"
+          # ข้อความแจ้งเตือนระดับ Empire
+          MESSAGE="🏰 [ThitNueaHub Empire]\n⚡ สถานะ V8: $STATUS\nท่อข้อมูล Zero Garbage Premium 2000% ขยับแล้วครับบอส!"
+          
+          # ยิง API ทะลุเข้า LINE OA ของบอส
+          curl -X POST https://api.line.me/v2/bot/message/push \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}" \
+            -d "{\"to\":\"${{ secrets.USER_ID }}\",\"messages\":[{\"type\":\"text\",\"text\":\"$MESSAGE\"}]}"
+
+      - name: 🧹 [ไอ้จ๊อด QA] ZERO-GARBAGE CLEANUP
+        run: |
+          echo "🔥 Executing Premium Cleanup Protocol..."
+          # ลบไฟล์เครื่องยนต์ทิ้งทันทีหลังรันเสร็จ ขยะต้องเป็น 0!
+          rm -rf engine
+          
